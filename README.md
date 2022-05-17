@@ -3,7 +3,7 @@
 <h3>Luis Hernandez<h3/>
 <h3>Carlos Salazar<h3/>
 <h3>Salvador Perez<h3/>
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
